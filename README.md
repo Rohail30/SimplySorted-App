@@ -39,6 +39,24 @@ simplySorted is designed to provide a seamless experience across various devices
 
 </Details>
 
+# simplySorted - Prerequisites
+<Details>
+   
+To run the Secure Sign user authentication project, ensure you have the following prerequisites installed:
+
+1. **Node.js:**
+   - Install Node.js by visiting [Node.js official website](https://nodejs.org/).
+   - Follow the installation instructions for your operating system.
+
+2. **MongoDB Community Server:**
+   - Install MongoDB Community Server by visiting [MongoDB Download Center](https://www.mongodb.com/try/download/community).
+   - Follow the installation instructions for your operating system.
+
+3. **MongoDB Compass:**
+   - Install MongoDB Compass, a graphical user interface for MongoDB, by visiting [MongoDB Compass Download](https://www.mongodb.com/try/download/compass).
+   - Follow the installation instructions for your operating system.
+</Details>
+
 ## Getting Started
 
 1. **Installation:**
