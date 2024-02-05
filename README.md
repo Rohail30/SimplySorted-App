@@ -67,7 +67,8 @@ To run the Secure Sign user authentication project, ensure you have the followin
    - Navigate to the server directory: `cd Server`
    - Install dependencies: `npm install`
    - Start the server: `npm run start`
-   - Navigate to the project directory: `cd..`
+   - Open new terminal
+   - Navigate to the project directory: ``cd simplySorted`
    - Navigate to the frontend directory: `cd frontend`
    - Install dependencies: `npm install`
    - Start the application: `npm run dev`
