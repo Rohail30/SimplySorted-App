@@ -42,18 +42,20 @@ simplySorted is designed to provide a seamless experience across various devices
 ## Getting Started
 
 1. **Installation:**
-   - Clone the repository: `git clone <repository-url>`
-   - Navigate to the project directory: `cd simplySorted`
+   - Clone the repository: `git clone https://github.com/Rohail30/SimplySorted-App.git`
 
 2. **Setup:**
+   - Navigate to the project directory: `cd simplySorted`
+   - Navigate to the server directory: `cd Server`
    - Install dependencies: `npm install`
+   - Start the server: `npm run start`
+   - Navigate to the project directory: `cd..`
+   - Navigate to the frontend directory: `cd frontend`
+   - Install dependencies: `npm install`
+   - Start the application: `npm run dev`
 
-3. **Launch the Application:**
-   - Start the application: `npm start`
-
-4. **Access the Application:**
-   - Open your browser and go to `http://localhost:3000`
-   - Create an account and begin organizing your tasks.
+3. **Access the Application:**
+   - Open your browser and go to `http://localhost:5137`
 
 ---
 
