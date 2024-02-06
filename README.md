@@ -81,9 +81,8 @@ To run the Secure Sign user authentication project, ensure you have the followin
 *Note: Ensure you have Node.js and MongoDB installed on your machine before running the application.*
 
 # Screenshots
-![Screenshot](https://github.com/Rohail30/SimplySorted-App/Screenshots/blob/main/Screenshot1.png)
-![Screenshot](https://github.com/Rohail30/SimplySorted-App/Screenshots/blob/main/Screenshot2.png)
-![Screenshot](https://github.com/Rohail30/SimplySorted-App/Screenshots/blob/main/Screenshot3.png)
-![Screenshot](https://github.com/Rohail30/SimplySorted-Ap/Screenshots/blob/main/Screenshot4.png)
-![Screenshot](https://github.com/Rohail30/SimplySorted-App/Screenshots/blob/main/Screenshot5.png)
-
+<img src='./Screenshots/Screenshot1.png'>
+<img src='./Screenshots/Screenshot2.png'>
+<img src='./Screenshots/Screenshot3.png'>
+<img src='./Screenshots/Screenshot4.png'>
+<img src='./Screenshots/Screenshot5.png'>
